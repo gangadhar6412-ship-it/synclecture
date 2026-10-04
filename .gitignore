@@ -1,0 +1,12 @@
+# Python bytecode & environments
+venv/
+__pycache__/
+*.pyc
+
+# Local secrets & configs
+.streamlit/secrets.toml
+.env
+
+# OS cache
+.DS_Store
+Thumbs.db
